@@ -14,7 +14,7 @@
 <a href="https://dev.to/fannoth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fannoth" height="30" width="40" /></a>
 <a href="https://twitter.com/fannoth1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fannoth1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jakub-czucha-fannoth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jakub-czucha-fannoth" height="30" width="40" /></a>
-<a href="https://fb.com/jakub_czucha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jakub_czucha" height="30" width="40" /></a>
+<a href="https://fb.com/jakub.czucha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jakub.czucha" height="30" width="40" /></a>
 <a href="https://discord.gg/Fannoth#1866" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Fannoth#1866" height="30" width="40" /></a>
 </p>
 
