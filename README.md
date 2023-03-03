@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fannoth&label=Profile%20views&color=0e75b6&style=flat" alt="fannoth" /> </p>
 
-- 🌱 I’m currently learning **React, Redux, TypeScript and Next.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **https://www.linkedin.com/in/jakub-czucha-Fannoth**
 
